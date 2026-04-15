@@ -12,8 +12,6 @@
 * **DevOps :** Docker, Docker Compose, Jenkins, Git, GitHub Actions, GitFlow, Postman, Bruno, Swagger.
 * **Architecture :** Principes SOLID, Design Patterns, Anti-Patterns, UML & Object Oriented Design.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on a real estate rental management platform. 
 
 
