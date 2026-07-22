@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oussama Benzzi
 #### I am a SWE Student at ENSA Agadir
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousam713)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ousam713)](https://github.com/stats-organization/github-stats-extended)
 
 
 ### 🛠 Compétences Techniques
